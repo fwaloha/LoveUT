@@ -1,0 +1,4 @@
+#Tue May 07 09:57:18 CST 2019
+base.0=/Users/wangfei/Desktop/LoveUT/sample/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/wangfei/Desktop/LoveUT/sample/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

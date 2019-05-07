@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:7:5-62:19
+MERGED from [com.android.support:support-v4:25.0.0] /Users/wangfei/.android/build-cache/201e7a35705620089ba19de1ce1d7a58cc139cfe/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/wangfei/.android/build-cache/eb5ca840b12077143df47ab93f9ab72a5f30f0d6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/wangfei/.android/build-cache/a6a24f1f1fa3ef351b23f87bb818e982e81790e3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/wangfei/.android/build-cache/1637f37ad9b0d7955e11f1dcc62ced090d495673/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/wangfei/.android/build-cache/206c19e5b132047c430a7982880286ee913e8691/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/wangfei/.android/build-cache/d4b16e85aff5a98a04c961efc448362ad3dcba69/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:11:9-45
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:8:9-42
+activity#com.geniusmart.loveut.activity.MainActivity
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:12:9-14:59
+	android:label
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:13:13-50
+activity#com.geniusmart.loveut.activity.LoginActivity
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:15:9-17:60
+	android:label
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:17:13-57
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:16:13-51
+activity#com.geniusmart.loveut.activity.SampleActivity
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:20:13-58
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:19:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:24:27-74
+service#com.geniusmart.loveut.service.SampleIntentService
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:29:13-56
+receiver#com.geniusmart.loveut.receiver.AlarmManagerReceiver
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:32:9-35:39
+	android:enabled
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:33:13-58
+receiver#com.geniusmart.loveut.receiver.BootCompleteReceiver
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:36:9-44:20
+	android:enabled
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:40:13-75
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:37:13-58
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:41:13-43:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:42:25-76
+receiver#com.geniusmart.loveut.receiver.MyReceiver
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:45:9-52:20
+	android:enabled
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:47:13-35
+	android:exported
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:46:13-48
+intent-filter#com.geniusmart.loveut.login
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:49:13-51:29
+action#com.geniusmart.loveut.login
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:50:17-70
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:50:25-67
+provider#com.geniusmart.loveut.provider.AccountProvider
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:54:9-57:39
+	android:authorities
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:56:13-72
+	android:exported
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:57:13-36
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:55:13-53
+activity#com.geniusmart.loveut.activity.CallbackActivity
+ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:59:9-61:72
+	android:label
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:61:13-60
+	android:name
+		ADDED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml:60:13-54
+uses-sdk
+INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:25.0.0] /Users/wangfei/.android/build-cache/201e7a35705620089ba19de1ce1d7a58cc139cfe/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/wangfei/.android/build-cache/eb5ca840b12077143df47ab93f9ab72a5f30f0d6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/wangfei/.android/build-cache/a6a24f1f1fa3ef351b23f87bb818e982e81790e3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/wangfei/.android/build-cache/1637f37ad9b0d7955e11f1dcc62ced090d495673/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/wangfei/.android/build-cache/206c19e5b132047c430a7982880286ee913e8691/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] /Users/wangfei/.android/build-cache/d4b16e85aff5a98a04c961efc448362ad3dcba69/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.0] /Users/wangfei/.android/build-cache/201e7a35705620089ba19de1ce1d7a58cc139cfe/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/LoveUT/LoveUT/sample/src/main/AndroidManifest.xml

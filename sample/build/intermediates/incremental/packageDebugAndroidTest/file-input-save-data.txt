@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Tue May 07 09:57:19 CST 2019
+1.file=/Users/wangfei/Desktop/LoveUT/sample/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+0.file=/Users/wangfei/Desktop/LoveUT/sample/build/intermediates/res/resources-debug-androidTest.ap_/AndroidManifest.xml
+1.base=/Users/wangfei/Desktop/LoveUT/sample/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+0.base=/Users/wangfei/Desktop/LoveUT/sample/build/intermediates/res/resources-debug-androidTest.ap_
+0.set=ANDROID_RESOURCE
+count=2
